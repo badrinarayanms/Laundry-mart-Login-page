@@ -7,6 +7,8 @@ A non-responsive login page designed for Laundry Mart, implemented using HTML an
 This project features a simple login page for Laundry Mart, created with HTML for structure and CSS for styling. It provides a basic interface for users to log in with their credentials.
 
 ## Hosted Page
+- link: https://badrinarayanms.github.io/laundry-mart-login-page/
+# 
 ![image](https://github.com/badrinarayanms/laundry-mart-login-page/assets/137931415/ba107223-ff0f-41e1-97a2-be64ce65064c)
 
 
